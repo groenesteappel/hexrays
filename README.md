@@ -1,1 +1,1 @@
-<img id=x tabindex=1 onfocus=a></img>
+<img id=x tabindex=1 onerror=a></img>
