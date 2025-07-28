@@ -1,3 +1,1 @@
-`Security test link`__.
-
-__ javascript:alert(document.domain)
+![The goodest boy](https://images.unsplash.com/the_good_boy.png)
