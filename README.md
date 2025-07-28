@@ -1,1 +1,1 @@
-![The goodest boy](https://images.unsplash.com/the_good_boy.png)
+<a href="https://www.example.com/">Click Me</a>
