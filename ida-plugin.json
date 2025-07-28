@@ -2,7 +2,7 @@
   "IDAMetadataDescriptorVersion": 1,
   "plugin": {
     "name": "<h1>{{7*7}}Function Analyzer Plus",
-    "entryPoint": "function_analyzer_plus.py",
+    "entryPoint": "plugin.py",
     "categories": ["disassembly-and-processor-modules", "decompilation", "debugging-and-tracing"],
     "logoPath": "test.svg",
     "idaVersions": ">=8.4",
