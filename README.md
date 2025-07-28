@@ -1,1 +1,1 @@
-<a href="https://www.example.com/">Click Me</a>
+<a href="javascript:alert('XSS')">Click Me</a>
