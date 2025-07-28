@@ -1,1 +1,1 @@
-<img id=x tabindex=1 onfocus=confirm(1)></img>
+<img id=x tabindex=1 onfocus=a></img>
