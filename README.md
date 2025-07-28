@@ -1,1 +1,1 @@
-banaan<title>test
+banaan<title>test</title>
